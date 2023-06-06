@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ovaloffice/static/css/main.4be9bdbe.css",
+    "main.js": "/ovaloffice/static/js/main.21ce7fbd.js",
+    "index.html": "/ovaloffice/index.html",
+    "main.4be9bdbe.css.map": "/ovaloffice/static/css/main.4be9bdbe.css.map",
+    "main.21ce7fbd.js.map": "/ovaloffice/static/js/main.21ce7fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be9bdbe.css",
+    "static/js/main.21ce7fbd.js"
+  ]
+}
