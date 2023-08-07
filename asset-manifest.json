@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ovaloffice/static/css/main.60ff57fe.css",
-    "main.js": "/ovaloffice/static/js/main.9816700a.js",
+    "main.css": "/ovaloffice/static/css/main.2bc4dbdc.css",
+    "main.js": "/ovaloffice/static/js/main.c4a5d553.js",
     "index.html": "/ovaloffice/index.html",
-    "main.60ff57fe.css.map": "/ovaloffice/static/css/main.60ff57fe.css.map",
-    "main.9816700a.js.map": "/ovaloffice/static/js/main.9816700a.js.map"
+    "main.2bc4dbdc.css.map": "/ovaloffice/static/css/main.2bc4dbdc.css.map",
+    "main.c4a5d553.js.map": "/ovaloffice/static/js/main.c4a5d553.js.map"
   },
   "entrypoints": [
-    "static/css/main.60ff57fe.css",
-    "static/js/main.9816700a.js"
+    "static/css/main.2bc4dbdc.css",
+    "static/js/main.c4a5d553.js"
   ]
 }
